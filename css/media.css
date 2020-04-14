@@ -1,0 +1,80 @@
+/*lg*/
+@media(max-width: 1199px){
+
+}
+/*md*/
+@media(max-width: 991px){
+header h1{
+	font-size: 32px;
+}
+.skills h2{
+	font-size: 14px;
+}
+  
+}
+/*sm*/
+@media(max-width: 767px){
+.btn{
+	padding: 10px 50px;
+	font-weight: 300;
+	font-size: 16px;
+	border-radius: 5px;
+	margin-top: 30px;
+}
+.portfolio h5{
+	font-size: 12px;
+}
+.feedback{
+	text-align: center;
+}
+.feedback p {     
+    margin-top: 5px;
+}
+footer ul li a{
+	padding: 2px 3px;
+	font-size: 8px;
+	border-radius: 4px;
+}
+}
+/*xsm*/
+@media(max-width: 575px){
+header h1{
+	font-size: 22px;
+}
+.btn{
+	padding: 4px 25px;	 
+	font-size: 12px;
+	 
+}
+.heading p{
+font-weight: 400;
+font-size: 14px;
+}
+.heading h1{
+	font-size:18px;
+
+}
+.protfolio-btn li {
+    margin: 0px 2px;
+    font-size: 9px;
+    }
+    .slider div {
+     
+    padding: 13px 20px;
+     
+    font-size: 15px;
+}
+header .slider-wrapper {
+     
+    font-size: 18px;
+}
+.team ul li a {
+     
+    width: 24px;
+    height: 24px;
+     
+    line-height: 24px;
+     
+    font-size: 13px;
+
+}
